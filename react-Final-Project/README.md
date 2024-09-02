@@ -1,8 +1,11 @@
-# React + Vite
+# Final Project - JavaScript: React Framework
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my Final project for the course Framework Valley: React!
 
-Currently, two official plugins are available:
+This is the showcase of my web development skills, and I used what I learned to make a fully functional web application.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+In the current version of the website, The languages used were:
+- Html
+- Css
+- JavaScript
+- React
