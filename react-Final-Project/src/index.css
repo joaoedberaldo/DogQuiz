@@ -1,0 +1,142 @@
+/* General Styles */
+html {
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-image: linear-gradient(-20deg, #8d8d8d 0%, #ffffff 100%);
+  min-height: 100vh;
+  text-align: center;
+}
+
+/* Header Styles */
+header {
+  color: black;
+  width: 100%;
+  text-align: center;
+}
+
+.nav{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.links {
+  color: black;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+.links:hover {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+/* Form Styles */
+form {
+  max-width: 400px;
+  width: 100%;
+  margin: 20px 0;
+}
+
+form label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+form input {
+  width: 400px;
+  padding: 10px;
+  margin-top: 5px;
+  border-radius: 5px;
+}
+
+form button {
+  color: black;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Question Styles */
+h2 {
+  text-align: center;
+  width: 100%;
+  margin-top: 30px;
+}
+
+p {
+  text-align: center;
+  width: 100%;
+}
+
+button {
+  color: black;
+  padding: 20px;
+  margin-right: 10px;
+  margin-top: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #c4c4c4;
+}
+
+.dogImage {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.dogImage img {
+  max-width: 500px;
+  border-radius: 10px;
+}
+
+.dogImage p {
+  margin: 5px 0;
+  text-align: center;
+}
+
+#about{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 5px;
+  margin: 3px;
+  padding: 20px;
+  width: 70vw;
+  font-size: 20px;
+}
+
+.social-icons{
+  display: flex;
+  flex-direction: column;
+}
+
+.social-icons a{
+  text-decoration: none;
+  color: black;
+  margin: 20px;
+  height: 20px;
+}
+
+.social-icons a:hover{
+  font-weight: bold;
+  text-decoration: underline;
+} 
+
+.social-icons img{
+  padding-top: 2px;
+  margin-bottom: 0;
+  padding-right: 2px;
+  height: 30px auto;
+  margin-bottom: -2px;
+}
+.author{
+  font-weight: bold;
+}
